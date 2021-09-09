@@ -1,4 +1,6 @@
 # {{cookiecutter.project_name}}
+{{cookiecutter.description}}
+
 ## Install Env
 ```bash
 poetry install
