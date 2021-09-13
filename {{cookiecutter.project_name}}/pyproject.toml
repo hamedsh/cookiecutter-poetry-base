@@ -18,7 +18,7 @@ pytest-sugar = "^0.9.4"
 pytest-mock = "^3.6.1"
 pytest-xdist = "^2.3.0"
 pytest-randomly = "^3.10.1"
-
+pytest-clarity = "^1.0.1"
 
 [tool.poetry.extras]
 lint = ["pylint"]
